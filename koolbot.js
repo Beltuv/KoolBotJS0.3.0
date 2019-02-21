@@ -11,4 +11,4 @@ bot.on('ready', () => {
     bot.user.setActivity("Club Penguin");
   });
 
-bot.login("NTQ0NzI0MzgzNjcxNzc5MzU4.D0ZKvg.xf4RLQTd_lhhbqiNd5l8xSm8CTk") //TOKEN
+bot.login("NTQ3ODA5MzczNzA4MzUzNTU3.D1BxPQ.i1tX8KcL16wUy-_zq4JlhD6EOLM") //TOKEN
